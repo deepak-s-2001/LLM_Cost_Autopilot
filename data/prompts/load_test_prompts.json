@@ -1,0 +1,2022 @@
+[
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1054: total due $398.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1039: total due $293.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 212 Fahrenheit to Celsius.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 50 US dollars to euros.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Public opinion on single-payer healthcare pilots has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding single-payer healthcare pilots.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 8 kilometers to miles.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Hana Suzuki, age 26, works as a UX researcher.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Support took three weeks to respond and never fixed the issue.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Devon Price, age 29, paralegal, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 74 plus 20?",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Devon Price, age 29, works as a paralegal.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1018: total due $146.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Public opinion on e-scooter licensing has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding e-scooter licensing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1030: total due $230.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "What is 53 plus 9?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'The product description was misleading about the size.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 76 plus 77?",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1002: total due $34.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Fatima Al-Sayed, age 38, veterinarian, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Convert 50 US dollars to euros.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 33 plus 14?",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Arrived damaged and the return process was a nightmare.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ben Okafor, age 55, urban planner, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of New Zealand?",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 30 plus 7?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1063: total due $461.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1024: total due $188.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1048: total due $356.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Convert 8 kilometers to miles.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'It's fine. Not amazing, not bad, just fine.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Hana Suzuki is 26 years old and works as a UX researcher.\n\nHow old is Hana?",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 49 plus 77?",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 212 Fahrenheit to Celsius.",
+    "use_case": null
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ingrid Larsson, age 33, marine biologist, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1058: total due $426.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1041: total due $307.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Best customer service I've had in years, very responsive.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1003: total due $41.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1034: total due $258.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List all prime numbers between 53 and 78.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 31 plus 8?",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on solar panel recycling mandates has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding solar panel recycling mandates.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Public opinion on remote jury duty has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding remote jury duty.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Elena Vasquez, age 44, logistics manager, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of Ecuador?",
+    "use_case": null
+  },
+  {
+    "prompt": "Ingrid Larsson is 33 years old and works as a marine biologist.\n\nHow old is Ingrid?",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on carbon capture subsidies has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding carbon capture subsidies.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1001: total due $27.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Ryan O'Connell is 31 years old and works as a welder.\n\nHow old is Ryan?",
+    "use_case": null
+  },
+  {
+    "prompt": "A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 8 kilometers to miles.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Fatima Al-Sayed, age 38, works as a veterinarian.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Elena Vasquez, age 44, logistics manager, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Arrived damaged and the return process was a nightmare.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Summarize this in two sentences: Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Arrived damaged and the return process was a nightmare.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Public opinion on AI companion apps has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding AI companion apps.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'It's fine. Not amazing, not bad, just fine.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of Ireland?",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Fast checkout, great packaging, will order again.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Devon Price, age 29, paralegal, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast congestion pricing and four-day school weeks, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Ryan O'Connell, age 31, works as a welder.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 56 plus 11?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1047: total due $349.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Summarize this in two sentences: Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Carlos Mendez, age 47, auditor, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Convert 8 kilometers to miles.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 10 plus 67?",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 9 plus 12?",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 61 and 86.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Genuinely impressed, exceeded what I expected for the price.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Fast checkout, great packaging, will order again.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1006: total due $62.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Elena Vasquez is 44 years old and works as a logistics manager.\n\nHow old is Elena?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1008: total due $76.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Carlos Mendez, age 47, works as a auditor.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "What is the capital of Malaysia?",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 25 and 50.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 44 plus 22?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast solar panel recycling mandates and AI companion apps, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Genuinely impressed, exceeded what I expected for the price.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 9 and 34.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is the capital of Argentina?",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1005: total due $55.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "What is the capital of Finland?",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1023: total due $181.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1029: total due $223.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Summarize this in two sentences: Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1042: total due $314.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1010: total due $90.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Elena Vasquez, age 44, works as a logistics manager.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Genuinely impressed, exceeded what I expected for the price.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1000: total due $20.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1032: total due $244.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Devon Price, age 29, paralegal, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1043: total due $321.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List all prime numbers between 77 and 102.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1021: total due $167.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast carbon capture subsidies and remote jury duty, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 49 and 74.",
+    "use_case": null
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1059: total due $433.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Support took three weeks to respond and never fixed the issue.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of Indonesia?",
+    "use_case": null
+  },
+  {
+    "prompt": "What is the capital of Colombia?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Support took three weeks to respond and never fixed the issue.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1033: total due $251.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 15 pounds to kilograms.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1014: total due $118.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Arrived damaged and the return process was a nightmare.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1044: total due $328.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: 11/22/2026.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is the capital of Nigeria?",
+    "use_case": null
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: Feb 3rd, 2027.",
+    "use_case": null
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Fast checkout, great packaging, will order again.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 15 pounds to kilograms.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Ben Okafor is 55 years old and works as a urban planner.\n\nHow old is Ben?",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast e-scooter licensing and data broker regulation, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1055: total due $405.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 13 and 38.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Best customer service I've had in years, very responsive.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Carlos Mendez, age 47, auditor, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Public opinion on noise pollution ordinances has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding noise pollution ordinances.",
+    "use_case": null
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast algorithmic hiring audits and urban tree canopy funding, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1062: total due $454.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Best customer service I've had in years, very responsive.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Ben Okafor, age 55, works as a urban planner.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1057: total due $419.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Compare and contrast AI-generated art licensing and single-payer healthcare pilots, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 212 Fahrenheit to Celsius.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1060: total due $440.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1049: total due $363.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'The product description was misleading about the size.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Public opinion on co-working subsidies has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding co-working subsidies.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1016: total due $132.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 33 and 58.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1013: total due $111.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List all prime numbers between 65 and 90.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ben Okafor, age 55, urban planner, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ingrid Larsson, age 33, marine biologist, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1025: total due $195.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1036: total due $272.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is the capital of Uruguay?",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 50 US dollars to euros.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1009: total due $83.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Carlos Mendez, age 47, auditor, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1015: total due $125.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Convert 8 kilometers to miles.",
+    "use_case": null
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1061: total due $447.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1007: total due $69.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1026: total due $202.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List all prime numbers between 17 and 42.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1045: total due $335.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Fatima Al-Sayed, age 38, veterinarian, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 18 plus 31?",
+    "use_case": null
+  },
+  {
+    "prompt": "A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 40 plus 56?",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on urban tree canopy funding has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding urban tree canopy funding.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1028: total due $216.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Fatima Al-Sayed, age 38, veterinarian, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 5 and 30.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1052: total due $384.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 81 and 106.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Hana Suzuki, age 26, UX researcher, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Public opinion on biometric payment systems has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding biometric payment systems.",
+    "use_case": null
+  },
+  {
+    "prompt": "A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1022: total due $174.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "What is 83 plus 83?",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ben Okafor, age 55, urban planner, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ryan O'Connell, age 31, welder, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: August 9, 2025.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is the capital of Croatia?",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on open banking APIs has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding open banking APIs.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "List all prime numbers between 37 and 62.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of Sweden?",
+    "use_case": null
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Carlos Mendez is 47 years old and works as a auditor.\n\nHow old is Carlos?",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on predictive policing has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding predictive policing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 57 and 82.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 8 kilometers to miles.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'It's fine. Not amazing, not bad, just fine.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Convert 50 US dollars to euros.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: Feb 3rd, 2027.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 15 pounds to kilograms.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ryan O'Connell, age 31, welder, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "List all prime numbers between 45 and 70.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the name and occupation from this text: 'Ingrid Larsson, age 33, works as a marine biologist.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Compare and contrast predictive policing and biometric payment systems, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Hana Suzuki, age 26, UX researcher, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 53 plus 86?",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1056: total due $412.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 10 plus 75?",
+    "use_case": null
+  },
+  {
+    "prompt": "What is the capital of Morocco?",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1037: total due $279.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1027: total due $209.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Convert 15 pounds to kilograms.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on algorithmic hiring audits has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding algorithmic hiring audits.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of Turkey?",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1012: total due $104.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ingrid Larsson, age 33, marine biologist, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 50 US dollars to euros.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: August 9, 2025.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1011: total due $97.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "A city's bus ridership fell 12% after a route redesign meant to improve efficiency. Explain the likely causes and what data you'd need to determine whether to revert the change.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Solid, reliable, no surprises either way.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Solid, reliable, no surprises either way.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 14 plus 58?",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1035: total due $265.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I was double-billed for last month's plan.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Summarize this in two sentences: A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a short story about a city that outlaws silence.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 15 pounds to kilograms.",
+    "use_case": null
+  },
+  {
+    "prompt": "A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Summarize this in two sentences: Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1019: total due $153.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "What is 71 plus 15?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short poem about the gap between what a policy promises and what it delivers.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1004: total due $48.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "List all prime numbers between 69 and 94.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on desalination plant funding has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding desalination plant funding.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 50 US dollars to euros.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A mid-size bank disclosed a data exposure affecting a subset of customers, prompting questions about whether existing breach-notification timelines are fast enough.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Solid, reliable, no surprises either way.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is the capital of Hungary?",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a two-paragraph story about an archivist who finds a letter addressed to themselves.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1038: total due $286.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Solid, reliable, no surprises either way.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on drone delivery has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding drone delivery.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Elena Vasquez, age 44, logistics manager, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1051: total due $377.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: Feb 3rd, 2027.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: August 9, 2025.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast drone delivery and ranked-choice voting, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a wearable device sharing health data with a user's employer from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1031: total due $237.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "List all prime numbers between 21 and 46.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: 11/22/2026.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'It's fine. Not amazing, not bad, just fine.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on ranked-choice voting has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding ranked-choice voting.",
+    "use_case": null
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on data broker regulation has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding data broker regulation.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of an algorithm denying loan applications at a higher rate for one zip code from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the fix must not cause any downtime, must be reversible within 24 hours, and should not increase the on-call burden, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on congestion pricing has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding congestion pricing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'Push notifications aren't arriving on iOS.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: August 9, 2025.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast microplastic regulation and co-working subsidies, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Fatima Al-Sayed is 38 years old and works as a veterinarian.\n\nHow old is Fatima?",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Fast checkout, great packaging, will order again.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 77 plus 10?",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 212 Fahrenheit to Celsius.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'The product description was misleading about the size.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: Feb 3rd, 2027.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on gig worker benefits portability has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding gig worker benefits portability.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1040: total due $300.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Best customer service I've had in years, very responsive.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a subscription service making cancellation deliberately difficult from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Summarize this in two sentences: A university announced it would accept applications without standardized test scores permanently, citing internal research showing high school GPA was a stronger predictor of graduation outcomes.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Write a scene where a mediator realizes both sides secretly want the same outcome.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I need to merge two accounts under one email.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Health officials urged caution after a spike in a seasonal illness was linked to lower vaccination rates among school-age children in several districts.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on four-day school weeks has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding four-day school weeks.",
+    "use_case": null
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: 11/22/2026.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1017: total due $139.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given these constraints: the campaign must reach at least 10,000 people, stay under $5,000, and avoid paid ads, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a city replacing crossing guards with AI-monitored cameras from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "A subscription business sees churn rise 8% right after a price increase but revenue per user also rises 15%. Explain the tradeoffs at play and how you'd decide whether the price increase was a good call.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1020: total due $160.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1046: total due $342.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Summarize this in two sentences: A coastal town approved a managed-retreat plan, relocating a portion of its waterfront infrastructure inland after repeated flooding events strained emergency services and insurance markets.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Support took three weeks to respond and never fixed the issue.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Regulators proposed new rules requiring ride-hailing companies to disclose driver pay algorithms, following complaints that per-trip earnings had become unpredictable and opaque even to experienced drivers.\n\nGiven this article, explain the likely underlying causes and recommend three concrete next steps, weighing tradeoffs for each.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on microplastic regulation has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding microplastic regulation.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'The product description was misleading about the size.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1053: total due $391.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Given these constraints: the rollout must not exceed a $50,000 pilot budget, must launch within 8 weeks, and cannot require hiring new staff, design a solution and justify each tradeoff.",
+    "use_case": null
+  },
+  {
+    "prompt": "Classify the sentiment of this review as positive, negative, or neutral: 'Genuinely impressed, exceeded what I expected for the price.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Compare and contrast gig worker benefits portability and desalination plant funding, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'My promo code didn't apply at checkout.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Convert 15 pounds to kilograms.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Ryan O'Connell, age 31, welder, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Devon Price is 29 years old and works as a paralegal.\n\nHow old is Devon?",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Reformat this date to YYYY-MM-DD: 11/22/2026.",
+    "use_case": null
+  },
+  {
+    "prompt": "Evaluate the ethical implications of a school using facial recognition to track student attendance from multiple stakeholder perspectives.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "List all prime numbers between 29 and 54.",
+    "use_case": null
+  },
+  {
+    "prompt": "List the key points from this article as bullet points: A logistics firm reported that automating its warehouse sorting reduced injury rates but also reduced headcount by nearly a third, reigniting debate over automation's labor tradeoffs.",
+    "use_case": "summarization"
+  },
+  {
+    "prompt": "Convert 212 Fahrenheit to Celsius.",
+    "use_case": null
+  },
+  {
+    "prompt": "Given this record, classify seniority as junior, mid, or senior: 'Hana Suzuki, age 26, UX researcher, 6 years of relevant experience.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "An engineering team's velocity dropped after adopting a new code review policy meant to improve quality. Explain the possible causes and how you'd evaluate whether the policy is net positive.",
+    "use_case": null
+  },
+  {
+    "prompt": "Public opinion on AI-generated art licensing has shifted over the last 18 months, with notable regional and generational splits.\n\nAnalyze the following survey data and identify the main trend regarding AI-generated art licensing.",
+    "use_case": null
+  },
+  {
+    "prompt": "List all prime numbers between 41 and 66.",
+    "use_case": null
+  },
+  {
+    "prompt": "Convert 212 Fahrenheit to Celsius.",
+    "use_case": null
+  },
+  {
+    "prompt": "Compare and contrast noise pollution ordinances and open banking APIs, considering cost, equity, and public sentiment.",
+    "use_case": null
+  },
+  {
+    "prompt": "Write a short allegory about a bridge that charges a different toll depending on who's crossing.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "Extract the invoice total from this text: 'Invoice #1050: total due $370.00, due in 30 days.'",
+    "use_case": "extraction"
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'I can't verify my phone number, the code never arrives.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "List all prime numbers between 73 and 98.",
+    "use_case": null
+  },
+  {
+    "prompt": "Categorize this support ticket into billing, technical, or account: 'The dashboard won't load past the loading spinner.'",
+    "use_case": "classification"
+  },
+  {
+    "prompt": "What is 73 plus 57?",
+    "use_case": null
+  }
+]

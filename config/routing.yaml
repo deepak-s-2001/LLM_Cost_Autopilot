@@ -1,0 +1,13 @@
+tiers:
+  1:
+    model: llama3.1:8b
+    fallback: gpt-5.4-mini
+  2:
+    model: gpt-5.4-mini
+    fallback: claude-sonnet-5
+  3:
+    model: claude-sonnet-5
+    fallback: gpt-5.4
+verification:
+  judge_model: claude-sonnet-5
+  escalation_model: claude-sonnet-5

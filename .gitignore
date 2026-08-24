@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+data/autopilot.db
+data/logs/
+.pytest_cache/
+project.md
+PROJECT.md
+CASE_STUDY.md

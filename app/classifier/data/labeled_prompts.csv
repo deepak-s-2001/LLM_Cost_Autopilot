@@ -1,0 +1,227 @@
+prompt,context,tier
+List all prime numbers between 34 and 54.,,1
+What is 3 plus 7?,,1
+"Categorize this support ticket into billing, technical, or account: 'I was billed for two plans when I only signed up for one.'",,2
+Organize the following meeting notes into a structured table with columns for topic and decision.,"We discussed the social media regulation rollout, decided to delay it by a month, then moved on to budget review where we approved an extra $20,000 for marketing.",2
+Organize the following meeting notes into a structured table with columns for topic and decision.,"We discussed the urban public transit rollout, decided to delay it by a month, then moved on to budget review where we approved an extra $20,000 for marketing.",2
+"Classify the sentiment of this review as positive, negative, or neutral: 'Decent value for the price, matches the listing.'",,2
+What is the capital of Peru?,,1
+"Design a policy response to a company laying off staff right before announcing record profits that balances competing interests, and explain how you would measure whether it succeeded.",,3
+Write a short fable about two neighboring towns that solve a water shortage in very different ways.,,3
+"Given this employee record, classify their seniority level as junior, mid, or senior: 'Maria Alvarez, age 41, works as a product manager with 8 years of experience.'",,2
+What is the capital of Germany?,,1
+Convert 2 gallons to liters.,,1
+What is 15 plus 16?,,1
+"Compare and contrast electric vehicle subsidies and space tourism, weighing long-term feasibility against short-term cost.",,3
+"Write a persuasive argument for and against electric vehicle subsidies, then explain which position is stronger and why, considering multiple stakeholders.",,3
+"Classify the sentiment of this review as positive, negative, or neutral: 'The delivery was fast and the packaging was perfect.'",,2
+"Write a persuasive argument for and against remote work policies, then explain which position is stronger and why, considering multiple stakeholders.",,3
+What is this person's job?,Tom Reilly is 29 years old and works as a electrician.,1
+"Given this employee record, classify their seniority level as junior, mid, or senior: 'Sana Iqbal, age 35, works as a pediatrician with 8 years of experience.'",,2
+Analyze the following data and identify the main trend regarding four-day work weeks.,"Survey data from the last three years shows shifting public opinion on four-day work weeks, with notable regional differences and demographic splits.",2
+"Compare and contrast school starting later and self-driving trucks, weighing long-term feasibility against short-term cost.",,3
+How old is Marcus?,Marcus Webb is 38 years old and works as a accountant.,1
+What does 'resilient' mean? Answer in one sentence.,,1
+What is this person's job?,Marcus Webb is 38 years old and works as a accountant.,1
+"Compare and contrast urban public transit and electric vehicle subsidies, considering economic impact and public sentiment.",,3
+"Classify the sentiment of this review as positive, negative, or neutral: 'Instructions were confusing and the part didn't fit as described.'",,2
+"Categorize this support ticket into billing, technical, or account: 'Search results are completely blank no matter what I type.'",,2
+List all prime numbers between 37 and 57.,,1
+Organize the following meeting notes into a structured table with columns for topic and decision.,"We discussed the electric vehicle subsidies rollout, decided to delay it by a month, then moved on to budget review where we approved an extra $20,000 for marketing.",2
+"Classify the urgency of this support ticket as low, medium, or high: 'My card was charged twice for the same order.'",,2
+What does 'meticulous' mean? Answer in one sentence.,,1
+Organize the following meeting notes into a structured table with columns for topic and decision.,"We discussed the universal basic income rollout, decided to delay it by a month, then moved on to budget review where we approved an extra $20,000 for marketing.",2
+"Compare and contrast renewable energy adoption and remote work policies, considering economic impact and public sentiment.",,3
+Analyze the following data and identify the main trend regarding open-source software funding.,Public survey responses about open-source software funding have shifted noticeably over the past two years.,2
+"Compare and contrast social media regulation and universal basic income, considering economic impact and public sentiment.",,3
+"Compare and contrast nuclear power expansion and cashless payment systems, weighing long-term feasibility against short-term cost.",,3
+"Summarize this in two sentences: A regional airline canceled dozens of flights this week after a software update caused scheduling conflicts, stranding thousands of passengers during the holiday travel period.",,2
+"Return a structured JSON summary with keys 'topic', 'stance', and 'confidence' for this text about nuclear power expansion.",A recent report discusses nuclear power expansion and presents arguments both for and against widespread adoption.,2
+What is the capital of Mexico?,,1
+"Design a policy response to a startup using customer data to train a product without explicit consent that balances competing interests, and explain how you would measure whether it succeeded.",,3
+Analyze the following data and identify the main trend regarding telemedicine adoption.,Public survey responses about telemedicine adoption have shifted noticeably over the past two years.,2
+What is this person's job?,Priya Nair is 27 years old and works as a graphic designer.,1
+"List the key points from this article as bullet points: The central bank held interest rates steady this quarter, citing mixed signals from labor markets and persistent but slowing inflation across major sectors.",,2
+"Compare and contrast vertical farming and open-source software funding, weighing long-term feasibility against short-term cost.",,3
+"Given these constraints: the plan must reduce costs by 15%, cannot lay off more than 5% of staff, and should be implemented within one quarter, design a solution and justify each tradeoff you made.",,3
+What is the capital of Norway?,,1
+"Compare and contrast self-driving trucks and carbon taxes, considering economic impact and public sentiment.",,3
+"List the key points from this article as bullet points: A regional airline canceled dozens of flights this week after a software update caused scheduling conflicts, stranding thousands of passengers during the holiday travel period.",,2
+List all prime numbers between 28 and 48.,,1
+"A factory produces 120 units a day but 8% are defective and must be reworked, adding 2 extra days per 100 reworked units to the schedule. If a customer orders 1,000 units, explain step by step how long the order will realistically take and what could be done to shorten it.",,3
+"Compare and contrast plastic packaging bans and nuclear power expansion, considering economic impact and public sentiment.",,3
+"Given these constraints: the budget cannot exceed $10,000, the timeline must be under 6 months, and at least two vendors must be considered, propose two alternative solutions and explain which you would choose and why.",,3
+Analyze the following data and identify the main trend regarding renewable energy adoption.,"Survey data from the last three years shows shifting public opinion on renewable energy adoption, with notable regional differences and demographic splits.",2
+"Given the tension between a company laying off staff right before announcing record profits and public trust, argue both sides and give a reasoned recommendation that also accounts for renewable energy adoption.",,3
+What is the capital of Canada?,,1
+How old is Maria?,Maria Alvarez is 41 years old and works as a product manager.,1
+"Summarize this in one sentence: A regional airline canceled dozens of flights this week after a software update caused scheduling conflicts, stranding thousands of passengers during the holiday travel period.",,2
+What is 9 plus 3?,,1
+"Return a structured JSON summary with keys 'topic', 'stance', and 'confidence' for this text about plastic packaging bans.",A recent report discusses plastic packaging bans and presents arguments both for and against widespread adoption.,2
+What is the capital of Italy?,,1
+Evaluate the ethical implications of a company laying off staff right before announcing record profits from multiple stakeholder perspectives.,,3
+"Given this article, explain the likely underlying causes of the situation and recommend three concrete next steps, weighing the tradeoffs of each.","A regional airline canceled dozens of flights this week after a software update caused scheduling conflicts, stranding thousands of passengers during the holiday travel period.",3
+What is the capital of Portugal?,,1
+What is the capital of Egypt?,,1
+"Reformat this date to YYYY-MM-DD: March 5th, 2026.",,1
+Write a short poem about the tension between ambition and contentment.,,3
+"Compare and contrast space tourism and gene editing, considering economic impact and public sentiment.",,3
+Analyze the following data and identify the main trend regarding social media regulation.,"Survey data from the last three years shows shifting public opinion on social media regulation, with notable regional differences and demographic splits.",2
+What is the capital of Brazil?,,1
+"Compare and contrast remote work policies and social media regulation, weighing long-term feasibility against short-term cost.",,3
+"A city is deciding between investing in space tourism or school starting later with a limited budget. Analyze the long-term tradeoffs of each option, considering equity, cost, and public opinion, then recommend a course of action with justification.",,3
+"A city is deciding between investing in renewable energy adoption or gene editing with a limited budget. Analyze the long-term tradeoffs of each option, considering equity, cost, and public opinion, then recommend a course of action with justification.",,3
+Analyze the following data and identify the main trend regarding AI in hiring.,"Survey data from the last three years shows shifting public opinion on AI in hiring, with notable regional differences and demographic splits.",2
+"Write a persuasive argument for and against universal basic income, then explain which position is stronger and why, considering multiple stakeholders.",,3
+"Classify the sentiment of this review as positive, negative, or neutral: 'Average quality for the price, no complaints.'",,2
+Convert 70 Fahrenheit to Celsius.,,1
+"Given the tension between a school banning a book that some parents find offensive and public trust, argue both sides and give a reasoned recommendation that also accounts for vertical farming.",,3
+"Categorize this support ticket into billing, technical, or account: 'I'm locked out after entering the wrong password once.'",,2
+"List the key points from this article as bullet points: Researchers announced a breakthrough battery chemistry that could double the range of electric vehicles, though mass production is still several years away due to supply chain and manufacturing hurdles.",,2
+"Write a persuasive argument for and against renewable energy adoption, then explain which position is stronger and why, considering multiple stakeholders.",,3
+List all prime numbers between 16 and 36.,,1
+"Given this employee record, classify their seniority level as junior, mid, or senior: 'Priya Nair, age 27, works as a graphic designer with 8 years of experience.'",,2
+What is the capital of Poland?,,1
+"Classify the sentiment of this review as positive, negative, or neutral: 'Terrible experience, the item arrived broken and support ignored me.'",,2
+Extract the name and age from this text: 'Sana Iqbal is 35 years old and works as a pediatrician.',,1
+What does 'arduous' mean? Answer in one sentence.,,1
+Reformat this date to YYYY-MM-DD: 9/1/2026.,,1
+What is the capital of France?,,1
+Write a short story from the perspective of an old house watching a family grow up.,,3
+"Write a persuasive argument for and against space tourism, then explain which position is stronger and why, considering multiple stakeholders.",,3
+"Write a scene where a detective realizes the culprit is someone they trust, without naming them directly.",,3
+List all prime numbers between 13 and 33.,,1
+Analyze the following data and identify the main trend regarding electric vehicle subsidies.,"Survey data from the last three years shows shifting public opinion on electric vehicle subsidies, with notable regional differences and demographic splits.",2
+"A city is deciding between investing in vertical farming or urban public transit with a limited budget. Analyze the long-term tradeoffs of each option, considering equity, cost, and public opinion, then recommend a course of action with justification.",,3
+"Summarize this in two sentences: A new study found that hybrid work arrangements improved employee retention at mid-size firms, though productivity metrics varied widely depending on team structure and management style.",,2
+"Reformat this date to YYYY-MM-DD: January 14th, 2027.",,1
+"Given the tension between a startup using customer data to train a product without explicit consent and public trust, argue both sides and give a reasoned recommendation that also accounts for renewable energy adoption.",,3
+Analyze the following data and identify the main trend regarding universal basic income.,"Survey data from the last three years shows shifting public opinion on universal basic income, with notable regional differences and demographic splits.",2
+Evaluate the ethical implications of a self-driving car forced to choose between two unavoidable collisions from multiple stakeholder perspectives.,,3
+"Given the tension between a hospital rationing scarce medication during a shortage and public trust, argue both sides and give a reasoned recommendation that also accounts for plastic packaging bans.",,3
+"Given this employee record, classify their seniority level as junior, mid, or senior: 'Tom Reilly, age 29, works as a electrician with 8 years of experience.'",,2
+"Write a persuasive argument for and against urban public transit, then explain which position is stronger and why, considering multiple stakeholders.",,3
+What is 7 plus 39?,,1
+Reformat this date to YYYY-MM-DD: December 25 2024.,,1
+An online store sees higher conversion on mobile but higher average order value on desktop. Explain what this suggests about customer behavior and how you would prioritize product changes given limited engineering time.,,3
+"Categorize this support ticket into billing, technical, or account: 'The mobile app freezes on the checkout screen.'",,2
+"A city is deciding between investing in electric vehicle subsidies or plastic packaging bans with a limited budget. Analyze the long-term tradeoffs of each option, considering equity, cost, and public opinion, then recommend a course of action with justification.",,3
+Convert 3 pounds to kilograms.,,1
+"Classify the sentiment of this review as positive, negative, or neutral: 'Customer service was rude and unhelpful when I called.'",,2
+Write a short dialogue between two rival scientists debating whether their discovery should be published.,,3
+"Summarize this in two sentences: Researchers announced a breakthrough battery chemistry that could double the range of electric vehicles, though mass production is still several years away due to supply chain and manufacturing hurdles.",,2
+"Summarize this in one sentence: The city council approved a new zoning law yesterday that will allow taller residential buildings near transit hubs, aiming to ease the housing shortage while critics worry about strain on local infrastructure.",,2
+Write a short story where a translator accidentally changes the meaning of a peace treaty.,,3
+Evaluate the ethical implications of a hospital rationing scarce medication during a shortage from multiple stakeholder perspectives.,,3
+"Categorize this support ticket into billing, technical, or account: 'I can't change the email address on my profile.'",,2
+"Given these constraints: the budget cannot exceed $10,000, the timeline must be under 6 months, and at least two vendors must be considered, design a solution and justify each tradeoff you made.",,3
+What is this person's job?,Maria Alvarez is 41 years old and works as a product manager.,1
+"Given this article, explain the likely underlying causes of the situation and recommend three concrete next steps, weighing the tradeoffs of each.","The city council approved a new zoning law yesterday that will allow taller residential buildings near transit hubs, aiming to ease the housing shortage while critics worry about strain on local infrastructure.",3
+"Return a structured JSON summary with keys 'topic', 'stance', and 'confidence' for this text about vertical farming.",A recent report discusses vertical farming and presents arguments both for and against widespread adoption.,2
+"Three teams each estimate a project will take a different number of weeks, and each estimate is biased for a different reason. Explain how you would reconcile the estimates into a single realistic timeline.",,3
+"Classify the urgency of this support ticket as low, medium, or high: 'I was charged for a subscription I canceled last month.'",,2
+"Categorize this support ticket into billing, technical, or account: 'The tax amount on my receipt looks wrong.'",,2
+"Compare and contrast cashless payment systems and vertical farming, considering economic impact and public sentiment.",,3
+What does 'lucid' mean? Answer in one sentence.,,1
+"Classify the sentiment of this review as positive, negative, or neutral: 'Shipping took forever but the product itself works great.'",,2
+Extract the name and age from this text: 'Marcus Webb is 38 years old and works as a accountant.',,1
+Convert 5 kilometers to miles.,,1
+"Given this article, explain the likely underlying causes of the situation and recommend three concrete next steps, weighing the tradeoffs of each.","The central bank held interest rates steady this quarter, citing mixed signals from labor markets and persistent but slowing inflation across major sectors.",3
+"Return a structured JSON summary with keys 'topic', 'stance', and 'confidence' for this text about cashless payment systems.",A recent report discusses cashless payment systems and presents arguments both for and against widespread adoption.,2
+"Compare and contrast open-source software funding and telemedicine adoption, considering economic impact and public sentiment.",,3
+What does 'candid' mean? Answer in one sentence.,,1
+"Reformat this date to YYYY-MM-DD: June 30, 2026.",,1
+"Summarize this in one sentence: A new study found that hybrid work arrangements improved employee retention at mid-size firms, though productivity metrics varied widely depending on team structure and management style.",,2
+List all prime numbers between 10 and 30.,,1
+"Summarize this in one sentence: Researchers announced a breakthrough battery chemistry that could double the range of electric vehicles, though mass production is still several years away due to supply chain and manufacturing hurdles.",,2
+Analyze the following data and identify the main trend regarding space tourism.,"Survey data from the last three years shows shifting public opinion on space tourism, with notable regional differences and demographic splits.",2
+"Compare and contrast four-day work weeks and AI in hiring, considering economic impact and public sentiment.",,3
+"Given the tension between a self-driving car forced to choose between two unavoidable collisions and public trust, argue both sides and give a reasoned recommendation that also accounts for universal basic income.",,3
+"A company's revenue grew 20% this year but costs grew 35%. Walk through what this implies about profitability, what additional information you'd need to be sure, and what actions might reverse the trend.",,3
+How old is Sana?,Sana Iqbal is 35 years old and works as a pediatrician.,1
+What is the capital of Vietnam?,,1
+"Design a policy response to a hospital rationing scarce medication during a shortage that balances competing interests, and explain how you would measure whether it succeeded.",,3
+Analyze the following data and identify the main trend regarding gene editing.,"Survey data from the last three years shows shifting public opinion on gene editing, with notable regional differences and demographic splits.",2
+"Summarize this in two sentences: The central bank held interest rates steady this quarter, citing mixed signals from labor markets and persistent but slowing inflation across major sectors.",,2
+What is the capital of Kenya?,,1
+"Categorize this support ticket into billing, technical, or account: 'Notifications stopped working after the last update.'",,2
+What is the capital of Chile?,,1
+"List the key points from this article as bullet points: A new study found that hybrid work arrangements improved employee retention at mid-size firms, though productivity metrics varied widely depending on team structure and management style.",,2
+"Write a persuasive argument for and against gene editing, then explain which position is stronger and why, considering multiple stakeholders.",,3
+Write a two-paragraph story about a lighthouse keeper who discovers a message in a bottle.,,3
+What is 8 plus 36?,,1
+"Categorize this support ticket into billing, technical, or account: 'I keep getting logged out every few minutes.'",,2
+Organize the following meeting notes into a structured table with columns for topic and decision.,"We discussed the remote work policies rollout, decided to delay it by a month, then moved on to budget review where we approved an extra $20,000 for marketing.",2
+Analyze the following data and identify the main trend regarding carbon taxes.,Public survey responses about carbon taxes have shifted noticeably over the past two years.,2
+What does 'pragmatic' mean? Answer in one sentence.,,1
+Evaluate the ethical implications of a school banning a book that some parents find offensive from multiple stakeholder perspectives.,,3
+List all prime numbers between 31 and 51.,,1
+"A city is deciding between investing in gig economy labor laws or telemedicine adoption with a limited budget. Analyze the long-term tradeoffs of each option, considering equity, cost, and public opinion, then recommend a course of action with justification.",,3
+Extract the name and age from this text: 'Maria Alvarez is 41 years old and works as a product manager.',,1
+What is 16 plus 10?,,1
+How old is Tom?,Tom Reilly is 29 years old and works as a electrician.,1
+"Categorize this support ticket into billing, technical, or account: 'My card was charged twice for the same order.'",,2
+"Categorize this support ticket into billing, technical, or account: 'The export button does nothing when I click it.'",,2
+List all prime numbers between 25 and 45.,,1
+"Categorize this support ticket into billing, technical, or account: 'I was charged for a subscription I canceled last month.'",,2
+Analyze the following data and identify the main trend regarding self-driving trucks.,Public survey responses about self-driving trucks have shifted noticeably over the past two years.,2
+"Given this employee record, classify their seniority level as junior, mid, or senior: 'Marcus Webb, age 38, works as a accountant with 8 years of experience.'",,2
+Write a brief speech a mayor might give after a controversial policy fails publicly.,,3
+"Compare and contrast AI in hiring and gig economy labor laws, weighing long-term feasibility against short-term cost.",,3
+What is this person's job?,David Kim is 52 years old and works as a civil engineer.,1
+What does 'ephemeral' mean? Answer in one sentence.,,1
+"Classify the urgency of this support ticket as low, medium, or high: 'I can't log into my account after resetting my password.'",,2
+"Summarize this in two sentences: The city council approved a new zoning law yesterday that will allow taller residential buildings near transit hubs, aiming to ease the housing shortage while critics worry about strain on local infrastructure.",,2
+What does 'ubiquitous' mean? Answer in one sentence.,,1
+"Categorize this support ticket into billing, technical, or account: 'My invoice shows a discount that wasn't applied at checkout.'",,2
+"Summarize this in one sentence: The central bank held interest rates steady this quarter, citing mixed signals from labor markets and persistent but slowing inflation across major sectors.",,2
+What is the capital of Greece?,,1
+Convert 100 US dollars to euros.,,1
+"Given this article, explain the likely underlying causes of the situation and recommend three concrete next steps, weighing the tradeoffs of each.","Researchers announced a breakthrough battery chemistry that could double the range of electric vehicles, though mass production is still several years away due to supply chain and manufacturing hurdles.",3
+"Categorize this support ticket into billing, technical, or account: 'I can't log into my account after resetting my password.'",,2
+"Design a policy response to a self-driving car forced to choose between two unavoidable collisions that balances competing interests, and explain how you would measure whether it succeeded.",,3
+"Design a policy response to a school banning a book that some parents find offensive that balances competing interests, and explain how you would measure whether it succeeded.",,3
+"List the key points from this article as bullet points: The city council approved a new zoning law yesterday that will allow taller residential buildings near transit hubs, aiming to ease the housing shortage while critics worry about strain on local infrastructure.",,2
+"Write a short story about a robot learning to paint, exploring themes of identity and purpose.",,3
+Extract the name and age from this text: 'Tom Reilly is 29 years old and works as a electrician.',,1
+Analyze the following data and identify the main trend regarding remote work policies.,"Survey data from the last three years shows shifting public opinion on remote work policies, with notable regional differences and demographic splits.",2
+"Reformat this date to YYYY-MM-DD: July 1, 2025.",,1
+Evaluate the ethical implications of a startup using customer data to train a product without explicit consent from multiple stakeholder perspectives.,,3
+Organize the following meeting notes into a structured table with columns for topic and decision.,"We discussed the renewable energy adoption rollout, decided to delay it by a month, then moved on to budget review where we approved an extra $20,000 for marketing.",2
+"Classify the urgency of this support ticket as low, medium, or high: 'The export button does nothing when I click it.'",,2
+What is the capital of Thailand?,,1
+What is 19 plus 17?,,1
+A city's traffic accidents dropped 15% after a new speed limit but complaints about commute times rose. Explain the likely tradeoffs at play and how you'd evaluate whether the policy is a net positive.,,3
+"Classify the sentiment of this review as positive, negative, or neutral: 'Waste of money, stopped working after two days.'",,2
+"Categorize this support ticket into billing, technical, or account: 'The app crashes every time I open the camera.'",,2
+Extract the name and age from this text: 'David Kim is 52 years old and works as a civil engineer.',,1
+Analyze the following data and identify the main trend regarding urban public transit.,"Survey data from the last three years shows shifting public opinion on urban public transit, with notable regional differences and demographic splits.",2
+What is this person's job?,Sana Iqbal is 35 years old and works as a pediatrician.,1
+Extract the name and age from this text: 'Priya Nair is 27 years old and works as a graphic designer.',,1
+"Classify the sentiment of this review as positive, negative, or neutral: 'It's fine, does what it says, nothing more nothing less.'",,2
+"Compare and contrast gene editing and plastic packaging bans, weighing long-term feasibility against short-term cost.",,3
+How old is David?,David Kim is 52 years old and works as a civil engineer.,1
+List all prime numbers between 19 and 39.,,1
+"Write a persuasive argument for and against social media regulation, then explain which position is stronger and why, considering multiple stakeholders.",,3
+"Classify the sentiment of this review as positive, negative, or neutral: 'Absolutely loved it, exceeded every expectation!'",,2
+"Return a structured JSON summary with keys 'topic', 'stance', and 'confidence' for this text about school starting later.",A recent report discusses school starting later and presents arguments both for and against widespread adoption.,2
+"Classify the sentiment of this review as positive, negative, or neutral: 'It's okay, does the job, wouldn't buy again but wouldn't warn others off either.'",,2
+List all prime numbers between 22 and 42.,,1
+"Given these constraints: the solution must work offline, should not require new hardware, and needs to support at least 500 concurrent users, propose two alternative solutions and explain which you would choose and why.",,3
+"Compare and contrast universal basic income and four-day work weeks, weighing long-term feasibility against short-term cost.",,3
+What is the capital of Japan?,,1
+"Given these constraints: the plan must reduce costs by 15%, cannot lay off more than 5% of staff, and should be implemented within one quarter, propose two alternative solutions and explain which you would choose and why.",,3
+What is 29 plus 4?,,1
+"Given this article, explain the likely underlying causes of the situation and recommend three concrete next steps, weighing the tradeoffs of each.","A new study found that hybrid work arrangements improved employee retention at mid-size firms, though productivity metrics varied widely depending on team structure and management style.",3
+"Given this employee record, classify their seniority level as junior, mid, or senior: 'David Kim, age 52, works as a civil engineer with 8 years of experience.'",,2
+How old is Priya?,Priya Nair is 27 years old and works as a graphic designer.,1
+"Return a structured JSON summary with keys 'topic', 'stance', and 'confidence' for this text about gig economy labor laws.",A recent report discusses gig economy labor laws and presents arguments both for and against widespread adoption.,2
+"Given these constraints: the solution must work offline, should not require new hardware, and needs to support at least 500 concurrent users, design a solution and justify each tradeoff you made.",,3
+"Classify the sentiment of this review as positive, negative, or neutral: 'Best purchase I've made all year, works flawlessly.'",,2
+"Categorize this support ticket into billing, technical, or account: 'The refund I was promised never showed up in my account.'",,2
+"Classify the urgency of this support ticket as low, medium, or high: 'The app crashes every time I open the camera.'",,2
+Convert 12 inches to centimeters.,,1
+"Compose a brief allegory about a river that forgets how to flow, exploring stagnation and change.",,3
+What is the capital of Spain?,,1
+"A city is deciding between investing in AI in hiring or self-driving trucks with a limited budget. Analyze the long-term tradeoffs of each option, considering equity, cost, and public opinion, then recommend a course of action with justification.",,3
+"Compare and contrast gig economy labor laws and school starting later, considering economic impact and public sentiment.",,3
