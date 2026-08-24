@@ -1,12 +1,10 @@
 # LLM Cost Autopilot
 
-A routing layer that sits in front of OpenAI, Anthropic, and a local Ollama model. It classifies each incoming request's complexity, routes it to the cheapest model that can actually handle it, and asynchronously verifies the response — escalating to a stronger model (and feeding the failure back into the classifier's training data) when the cheap model wasn't good enough. Time-sensitive prompts bypass tier routing entirely and go straight to a flagship model with live web search, since a classifier has no signal for "this needs current information."
+A routing layer that sits in front of OpenAI, Anthropic, and a local Ollama model. It classifies each incoming request's complexity, routes it to the cheapest model that can actually handle it, and asynchronously verifies the response — escalating to a stronger model (and feeding the failure back into the classifier's training data) when the cheap model wasn't good enough.
 
 Repo: https://github.com/deepak-s-2001/LLM_Cost_Autopilot
 
 ## What's not in this repo
-
-Same spirit as any local research/dev app — the public repo ships code and the trained classifier artifact only, not runtime data. Not included:
 
 - `.env` — your own API keys, never committed (`.env.example` is the template)
 - `data/autopilot.db` — the local SQLite database (regenerates empty on first run)
